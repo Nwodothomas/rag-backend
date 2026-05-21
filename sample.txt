@@ -1,0 +1,5 @@
+Hello Supabase Storage!
+
+This is a test file uploaded from the rag-backend project.
+If you can see this file in your Supabase documents bucket,
+it means storage integration is working correctly.
